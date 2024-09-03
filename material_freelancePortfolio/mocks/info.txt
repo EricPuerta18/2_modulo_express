@@ -1,0 +1,17 @@
+- textos
+	• titulo: freelance portfolio
+	• opciones menu: portfolio about contact
+	• decripción perfil: Web Developer - Graphic Artist - User Experience Designer
+	• párrafo 1: Freelance is a free landing page theme created for free use. The download includes the complete source files including HTML, CSS, and JavaScript as weel as optional SASS stylesheets for easy customization
+	• párrafo 2: Whether you're a student looking to showcase your work, a professional looking to attact clients, or a graphic artist looking to share your projects, this template is the perferct starting point!
+	• titulos footer: location - around the web - about freelancer
+	• direccion: 2215 Jhon Daniel Drive Clark, MO 65243
+	• descripcion perfil footer: Freelance is free and open souce landing page theme created to your free personal use
+	• copyright: copyright Your Website 2024
+- Colores
+	• Azul - #2C3E50
+	• Verde - #18BC9C
+
+- Tipografías (Google Fonts)
+	• Montserrat - Títulos
+	• Lato - Párrafos y demás
